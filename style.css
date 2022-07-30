@@ -1,0 +1,74 @@
+body{
+	background: yellowgreen;
+
+}
+h1{
+	color: red;
+	font-family: cursive;
+	font-size: 55px;
+	background: #070505;
+	text-align: center;
+	border: yellow 5px solid;
+}
+
+
+.container{
+	width: 80%;
+	margin: auto;
+}
+p{
+	color: black;
+	font-size: 20px;
+	text-align: justify;
+	font-family: arial;
+
+}
+
+.block{
+	float: left;
+	width 50%;
+	bordor: 40px blue solid;
+	padding: 10px;
+	box-sizing: border-box;
+}
+a{
+	color: black;
+
+}
+
+h3{
+	text-align: center;
+}
+h4{
+	color: #521305;
+	font-size: 40px;
+	text-align: center;
+	font-family: comic sans ms;
+	letter-spacing: 0.28em;
+}
+.container1{
+	margin: 100px auto;
+	width: 80%;
+	padding: none;
+
+}
+
+img{
+	float: left;
+	width: 350px;
+	height: 500px;
+	padding: 0 10px 0 0;
+
+}
+
+.text{
+	text-align: justify;
+	font-family: arialblack;
+	box-sizing: border-box;
+	
+}
+.c1{
+	border: black 10px solid;
+	background: white;
+	padding: 5px;
+}
